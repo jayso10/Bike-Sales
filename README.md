@@ -33,6 +33,19 @@ The analysis demonstrates the full workflow of a data analyst project:
 
 ---
 
+## 📊 Project Summary
+
+Dataset statistics:
+
+- **Total Orders:** ~1,600+
+- **Total Customers:** ~1,400+
+- **Total Products:** ~300+
+- **Stores Analyzed:** 3
+- **Product Categories:** 7
+- **Years Covered:** 2016 – 2018
+
+The dataset combines customer, product, store, and order information to analyze sales performance and customer purchasing behaviour.
+
 ## ❓ Business Questions
 
 This analysis aimed to answer several key questions:
